@@ -156,6 +156,7 @@ public class Main {
 
         int temp_int;
         boolean sorted;
+        //change 1
         int compareUpTo =  arr.length-1;
 
         while (true) {
